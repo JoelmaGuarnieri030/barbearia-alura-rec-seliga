@@ -1,11 +1,46 @@
 body {
-    background: #CCCCCC
+
 }
 
-p {
-    text-align: center;
+#banner
+{ width:100%;
+
 }
 
+.principal {
+backgound: #CCCCCC;
+padding: 30px;
+}
+title - main {
+  padding - left : 20px ;
+
+}
+
+title - centralized {
+  text - align : center
+}
+P{
+text-align: center;
+}
+# mission {
+font-size 20px
+}
 em strong {
-    color: #FF0000;
+color:#FF0000;
+}
+Items{
+Font-style: italic
+}
+.beneficios{
+Background: #FFFFFF;
+padding: 20px;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.imagembeneficios {
+  width: 50%;
 }
